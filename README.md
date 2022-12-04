@@ -19,7 +19,7 @@
 
 ### Visit our official Queen Amdi 4.0v [Multi-Device] website for deploy instructions
 
-**[» Official Website](https://amdaniwasa.com)**
+**[» Official Website](https://heroku.com/deploy)**
 
 ### You can join our Beta Testing WhatsApp Group by this invite link
 
