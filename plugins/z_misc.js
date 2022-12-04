@@ -161,7 +161,7 @@ AMDI({ cmd: ["trt", "translate"], desc: Lang.TRTDESC, example: '.trt from_code/t
 AMDI({ cmd: "tkinfo", desc: "Scarp tk info", react: "💃🏻", type: "primary" }, (async (amdiWA) => {
     let { reply } = amdiWA.msgLayout
 
-    return await reply("Coming soon..\n\nඕම ඉන්ඩ ඒක හදලා නෑ තාම");
+    return await reply("Coming soon..\n\nඕම ඉන්ඩ ඒක හදලා නෑ තාමමන් එක හදලා කියන්නම් හොදේ ");
 }));
 
 
